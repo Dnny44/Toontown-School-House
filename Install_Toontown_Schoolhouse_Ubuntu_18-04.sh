@@ -2,7 +2,7 @@
 #This was tested from a fresh install of Ubuntu 18.04
 
 #This is using my own fork of the repo to include some pre-compiled files
-git clone https://github.com/Dnny44/Toontown-School-House.git 
+#git clone https://github.com/Dnny44/Toontown-School-House.git 
 
 cd Toontown-School-House
 
@@ -19,4 +19,3 @@ cd ..
 cd linux
 sudo chmod +x start-astron-server.sh start-ai-server.sh start-uberdog-server.sh
 
-./start-astron-server.sh
